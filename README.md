@@ -8,6 +8,10 @@ Food delivery platforms struggle with unpredictable prep times, inefficient ride
 SOLUTION
 FoodAI recommends items that maximize both customer satisfaction and operational efficiency using machine learning ranking and contextual signals.
 
+
+<img width="1916" height="807" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/3f7d7097-4b50-4164-8ebb-7c60bad82423" />
+
+
 ━━━━━━━━━━━━━━━━ SYSTEM ARCHITECTURE ━━━━━━━━━━━━━━━━
 
 User / App
